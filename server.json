@@ -23,6 +23,21 @@
       "price": "25.90",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "description": "Macarrão feito com alho e óleo, o melhor da região.",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "Macarrão alho e óleo",
+      "price": "25.50",
+      "id": 4
+    },
+    {
+      "description": "Melhor do melhor do melhor",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
+      "name": "Miojo da Mônica.",
+      "price": "5.00",
+      "available": true,
+      "id": 6
     }
   ]
 }
